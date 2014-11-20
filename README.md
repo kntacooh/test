@@ -1,4 +1,4 @@
 test
 ====
 
-[test](./readme.md)
+[test](README.md)
